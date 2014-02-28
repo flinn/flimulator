@@ -71,7 +71,8 @@
     ".jshintrc",
     "bower.json",
     "HACKING.md",
-    "Jakefile"
+    "Jakefile",
+    "test"
   ],
   "engines": {
     "node": ">= 0.8.0",
