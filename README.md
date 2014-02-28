@@ -1,4 +1,4 @@
-# Apache Ripple(tm)
+# Flimulator!
 
 A browser based, platform agnostic mobile application development and testing tool.
  
@@ -53,7 +53,7 @@ It can be used for various things, such as statically hosting an application, an
 
 To install:
 
-    npm install -g ripple-emulator
+    npm install -g flimulator
 
 This will install a global script called `ripple`. To see usage, run:
 
@@ -72,7 +72,3 @@ Note: You will need to submit an Apache [ICLA](http://www.apache.org/licenses/#c
 * 4 spaces per editor tab.
 * `jake lint`, no new lint errors introduced.
 * All unit tests are green.
-
-## Reference Material &amp; Community
-
-* [Project Site](http://ripple.incubator.apache.org)
