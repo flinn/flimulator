@@ -1,5 +1,5 @@
 /*! 
-  Ripple Mobile Environment Emulator v0.1.9 :: Built On Wed Jan 29 2014 13:55:55 GMT-0500 (EST)
+  Ripple Mobile Environment Emulator v0.1.9 :: Built On Fri Feb 28 2014 13:34:53 GMT-0500 (EST)
 
                                 Apache License
                            Version 2.0, January 2004
