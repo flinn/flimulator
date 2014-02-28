@@ -59,7 +59,19 @@
     "assets/server",
     "pkg/hosted",
     "doc",
-    "bin"
+    "bin",
+    "assets",
+    "build",
+    "setup",
+    "targets",
+    "thirdparty",
+    ".bowercc",
+    ".csslintrc",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "HACKING.md",
+    "Jakefile"
   ],
   "engines": {
     "node": ">= 0.8.0",
