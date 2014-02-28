@@ -8,10 +8,3 @@ solution/.idea/*
 tags
 *.*~
 *.swp
-www/*
-build_output/
-/plugins
-services
-npm-debug.log
-test/assets/cov/results.html
-thirdparty/jasmine
